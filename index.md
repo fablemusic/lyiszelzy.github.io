@@ -8,16 +8,16 @@ Fragments of voice. Breath turned into melody.
 
 ## Listen
 
-Spotify  
-YouTube  
-Bandcamp  
+[Spotify](https://open.spotify.com/search/lyiszelzy)  
+[YouTube](https://www.youtube.com/@lyiszelzy)  
+[Bandcamp](https://lyiszelzy.bandcamp.com)  
 
 ---
 
 ## Connect
 
-Instagram  
-Email   
+[Instagram](https://www.instagram.com/lyiszelzy)  
+mailto:lyiszelzy@gmail.com  
 
 ---
 
