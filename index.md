@@ -22,7 +22,7 @@ Fragments of voice. Breath turned into melody.
 ## Connect
 
 [Instagram](https://www.instagram.com/lyiszelzy)  
-[Email](mailto:lyiszelzy@gmail.com)  
+<a href="mailto:lyiszelzy@gmail.com">Email</a>
 
 ---
 
