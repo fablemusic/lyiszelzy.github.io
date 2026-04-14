@@ -1,6 +1,7 @@
 ---
 layout: default
 title: LYIS Zelzy
+github: false
 ---
 
 # LYIS Zelzy
