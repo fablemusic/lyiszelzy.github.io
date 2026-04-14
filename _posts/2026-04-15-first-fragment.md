@@ -2,7 +2,6 @@
 layout: post
 title: "A quiet overflow"
 ---
-
 *Sometimes I feel like I am speaking too much…*
 
 But maybe the world is just listening too little.  
