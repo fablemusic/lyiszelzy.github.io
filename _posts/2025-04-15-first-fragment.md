@@ -10,4 +10,4 @@ But maybe the world is just listening too little.
 Words gather inside me like rain that cannot fall.  
 So they stay, heavy, waiting.
 
-*I will let them fall here.*
+*I will let them fall here*
