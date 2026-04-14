@@ -10,9 +10,7 @@ Indie Pop · Electropop Artist
 
 Fragments of voice. Breath turned into melody.
 
-<a href="https://www.youtube.com/watch?v=ITtqu0DN_V0">
-   <img src="https://youtube.com" alt="Watch the video" width="560" height="315" style="border: 10px solid black;" />
-</a>
+[![Watch the video](https://ytimg.com)](https://www.youtube.com/watch?v=ITtqu0DN_V0)
 
 ---
 
