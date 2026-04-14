@@ -1,0 +1,14 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* REMOVE GitHub profile link */
+a[href*="github.com"] {
+  display: none !important;
+}
+
+/* OPTIONAL: remove any extra header links */
+.site-header a {
+  display: none !important;
+}
